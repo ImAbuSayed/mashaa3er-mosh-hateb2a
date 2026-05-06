@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Mashaa3er Mosh Hateb2a |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mashaa3er-mosh-hateb2a/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License this song: Mashaa3er Mosh Hateb2a](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
